@@ -1,3 +1,3 @@
 # Toxic-Comments-DS
 
-https://www.kaggle.com/code/jagangupta/stop-the-s-toxic-comments-eda
+https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data
